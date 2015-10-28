@@ -13,7 +13,7 @@
 	http://data.okfn.org/data/core/co2-fossil-global/r/global.json
 	
 	Fiddle to get started:
-	http://jsfiddle.net/karolinka/xooqhsw4/2/
+	http://jsfiddle.net/karolinka/xooqhsw4/6/
 
  
 
@@ -33,6 +33,7 @@
 
 http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
 http://data.okfn.org/data/okfn/opendatasites
+http://www.publicapis.com/
 
 
 ----------
