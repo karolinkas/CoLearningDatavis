@@ -13,7 +13,7 @@
 	http://data.okfn.org/data/core/co2-fossil-global/r/global.json
 	
 	Fiddle to get started:
-	http://jsfiddle.net/karolinka/h3gu39ac/13/
+	http://jsfiddle.net/karolinka/xooqhsw4/2/
 
  
 
