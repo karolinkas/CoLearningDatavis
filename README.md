@@ -35,9 +35,10 @@
    Dataset:
    https://data.nasa.gov/api/views/b67r-rgxc/rows.json?accessType=DOWNLOAD
 
-   You can find and example in of the data in the file `data/nasa-near-earth-comets.json`.
+   You can find and example in of the data in the file `data/nasa-near-earth-comets.csv`.
 
-   Fiddle to get started: http://jsfiddle.net/karolinka/xooqhsw4/4/
+   Fiddle to get started: http://jsfiddle.net/jhbabon/ud27y5Lo/
+
 ----------
 
 ### Public Resources for Data
