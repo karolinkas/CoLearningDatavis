@@ -23,7 +23,7 @@ http://api.openweathermap.org/data/2.5/forecast?q=Barcelona,us&appid=bd82977b86b
 
 You can find and example in of the data in the file `data/weather.json`.
 
-Fiddle to get started: http://jsfiddle.net/karolinka/xooqhsw4/4/
+Fiddle to get started: http://jsfiddle.net/jhbabon/ud2j6j60/
 
 
 ### NASA Near-Earth Comets - Orbital Elements
