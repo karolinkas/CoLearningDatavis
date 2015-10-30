@@ -1,6 +1,6 @@
 # CoLearningDatavis
 
-## Collection of Public Apis and Exercises
+## Exercises and Prepared Datasets:
 
 
 ### Global CO2 Emissions from Fossil Fuels since 1751
